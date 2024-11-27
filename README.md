@@ -33,4 +33,4 @@ I am a student at School 42 (Sao Paulo Campus). I'm taking the 42.Zip C Programm
 ### If you're interested, you can hit me up through LinkedIn, Gmail, or Discord (links below)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinied-gpereira/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1226967137533558977)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinied.contact@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinied.contact@gmail.com)
