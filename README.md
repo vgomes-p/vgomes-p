@@ -1,5 +1,5 @@
 # Ahhhh shit, are u here? U look so pretty 🤭!!!
-## 🙋🏽‍♂️ ABOUT ME (a soon intro)!
+## 🙋🏽‍♂️ ABOUT ME (a short intro)!
 ### My name is Vinicius, but you can call me Vinny...
 I am a student at School 42 (Sao Paulo Campus). I'm taking the 42.Zip C Programming course while still studying Python on my own.
 
