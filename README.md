@@ -9,7 +9,7 @@ I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programmi
 
 
 ## 👀 GET TO KNOW ME!
-### These are the languages I've been learing and working with
+### These are the languages I've been learning and working with
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ### Beside them, I'm interested in learning
@@ -17,7 +17,7 @@ I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programmi
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-### I'm used to these IDE, Terminal & Os 
+### I'm used to these IDE, Terminal & OS 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -29,7 +29,7 @@ I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programmi
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
-## 42.ZIP PROJECTS | C PROGRAMING COURSE
+## 42.ZIP PROJECTS | PROGRAMMING COURSE
 [![LIBFT](badges/libfte.png)](https://github.com/vgomes-p/libft-42)
 [![GNL](badges/get_next_linee.png)](https://github.com/vgomes-p/get_next_line-42)
 [![SO_LONG](badges/so_longe.png)](https://github.com/vgomes-p/so_long-42)
