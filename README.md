@@ -34,7 +34,7 @@ I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programmi
 [![SO_LONG](badges/so_longe.png)](https://github.com/vgomes-p/so_long-42)
 [![PIPEX](badges/pipexe.png)](https://github.com/vgomes-p/pipex-42)
 [![MINISHELL](badges/minishelle.png)](https://github.com/vgomes-p/minishell-42)
-[![MOBILE](badges/mobile_piscinee.png)](https://github.com/vgomes-p/mobile_piscine-42)
+[![MOBILE](badges/mobilee.png)](https://github.com/vgomes-p/mobile_piscine-42)
 
 
 ## 🛸 WAYS TO CONTACT ME!
