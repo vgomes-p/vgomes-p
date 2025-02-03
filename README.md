@@ -29,12 +29,17 @@ I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programmi
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 ## 42.ZIP PROJECTS | PROGRAMMING COURSE
-[![LIBFT](badges/libfte.png)](https://github.com/vgomes-p/libft-42)
-[![GNL](badges/get_next_linee.png)](https://github.com/vgomes-p/get_next_line-42)
-[![SO_LONG](badges/so_longe.png)](https://github.com/vgomes-p/so_long-42)
-[![PIPEX](badges/pipexe.png)](https://github.com/vgomes-p/pipex-42)
-[![MINISHELL](badges/minishelle.png)](https://github.com/vgomes-p/minishell-42)
-[![MOBILE](badges/mobilee.png)](https://github.com/vgomes-p/mobile_piscine-42)
+[![LIBFT](42badges/libfte.png)](https://github.com/vgomes-p/libft-42)
+[![GNL](42badges/get_next_linee.png)](https://github.com/vgomes-p/get_next_line-42)
+[![SO_LONG](42badges/so_longe.png)](https://github.com/vgomes-p/so_long-42)
+[![PIPEX](42badges/pipexe.png)](https://github.com/vgomes-p/pipex-42)
+[![MINISHELL](42badges/minishelle.png)](https://github.com/vgomes-p/minishell-42)
+[![MOBILE](42badges/mobilee.png)](https://github.com/vgomes-p/mobile_piscine-42)
+
+## PYTHON INDEPENDENT PROJECTS | SHOWCASES
+[![AUTO PUSH](pybadges/showcase/auto_push.png)](https://github.com/vgomes-p/auto_push)
+[![AUTO START](pybadges/showcase/auto_start.png)](https://github.com/vgomes-p/Coder-Auto-Start)
+[![SCHOOLA](pybadges/showcase/schoola.png)](https://github.com/vgomes-p/schoola)
 
 
 ## 🛸 WAYS TO CONTACT ME!
