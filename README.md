@@ -3,6 +3,11 @@
 ### My name is Vinicius, but you may call me Vinny.
 I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programming while studying Python beside
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
+</picture>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko)
