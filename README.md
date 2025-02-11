@@ -1,21 +1,23 @@
 # Salutations from Brasil!!! (Yes, with an S 🤭)
 ## 🙋🏽‍♂️ ABOUT ME (a short intro)
 ### My name is Vinicius, but you may call me Vinny.
-I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programming while studying Python beside
+I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course. In the meantime, I'm learning Python by myself! Down
 
+## 🤝🏽 My GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
 </picture>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko)
-## 🏆 GitHub Trophies
+## 🏆 My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vgomes-p&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![My stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko)
 
-## 👀 GET TO KNOW ME!
+
+## 👀 GET TO KNOW ME BETTER!
 ### These are the languages I've been learning and working with
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
