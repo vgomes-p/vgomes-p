@@ -1,5 +1,5 @@
-# Ahhhh shit, are u here? U look so pretty 🤭!!!
-## 🙋🏽‍♂️ ABOUT ME (a short intro)!
+# Salutations from Brasil!!! (Yes, with an S 🤭)
+## 🙋🏽‍♂️ ABOUT ME (a short intro)
 ### My name is Vinicius, but you may call me Vinny.
 I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programming while studying Python beside
 
@@ -36,7 +36,7 @@ I am a student at School 42 (Sao Paulo Campus). I'm doing the 42.Zip C Programmi
 [![MINISHELL](42badges/minishelle.png)](https://github.com/vgomes-p/minishell-42)
 [![MOBILE](42badges/mobilee.png)](https://github.com/vgomes-p/mobile_piscine-42)
 
-## PYTHON INDEPENDENT PROJECTS | SHOWCASES
+## PYTHON PROJECTS
 [![AUTO PUSH](pybadges/showcase/auto_push.png)](https://github.com/vgomes-p/auto_push)
 [![AUTO START](pybadges/showcase/auto_start.png)](https://github.com/vgomes-p/Coder-Auto-Start)
 [![SCHOOLA](pybadges/showcase/schoola.png)](https://github.com/vgomes-p/schoola)
