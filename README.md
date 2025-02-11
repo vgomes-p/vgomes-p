@@ -1,7 +1,7 @@
 # Salutations from Brasil!!! (Yes, with an S 🤭)
 ## 🙋🏽‍♂️ ABOUT ME (a short intro)
 ### My name is Vinicius, but you may call me Vinny.
-I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course. In the meantime, I'm learning Python by myself! Down
+I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course. In the meantime, I'm learning Python by myself!
 
 ## 🤝🏽 My GitHub Contributions
 <picture>
