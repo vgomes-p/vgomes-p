@@ -11,9 +11,9 @@ I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course
 </picture>
 
 ## 🏆 My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vgomes-p&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![My Trophies](https://github-profile-trophy.vercel.app/?username=vgomes-p&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
+![My Stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko)
 
 
