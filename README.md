@@ -44,7 +44,7 @@ I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course
 [![PIPEX](42badges/pipexe.png)](https://github.com/vgomes-p/pipex-42)
 [![MINISHELL](42badges/minishelle.png)](https://github.com/vgomes-p/minishell-42)
 [![MOBILE](42badges/mobilee.png)](https://github.com/vgomes-p/mobile_piscine-42)
-[![PYTHON IMMERSION](42badges/pyimmersion.png)](https://github.com/vgomes-p/pythonimmersion-42)
+[![PYTHON IMMERSION](42badges/pyimmersione.png)](https://github.com/vgomes-p/pythonimmersion-42)
 
 ## PYTHON PROJECTS
 [![AUTO PUSH](pybadges/showcase/auto_push.png)](https://github.com/vgomes-p/auto_push)
