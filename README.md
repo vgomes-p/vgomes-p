@@ -37,7 +37,7 @@ I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
-## 42.ZIP PROJECTS | PROGRAMMING COURSE
+## 42 PROJECTS | PROGRAMMING COURSE
 [![LIBFT](42badges/libfte.png)](https://github.com/vgomes-p/libft-42)
 [![GNL](42badges/get_next_linee.png)](https://github.com/vgomes-p/get_next_line-42)
 [![SO_LONG](42badges/so_longe.png)](https://github.com/vgomes-p/so_long-42)
