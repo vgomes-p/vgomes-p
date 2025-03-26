@@ -18,7 +18,7 @@ I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course
 
 
 ## 👀 GET TO KNOW ME BETTER!
-### These are the languages I've been learning and working with
+### These are the languages and frameworks I've been learning and working with
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Native-React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
