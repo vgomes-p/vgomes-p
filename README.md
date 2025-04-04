@@ -43,6 +43,7 @@ I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course
 [![MOBILE](42badges/mobilee.png)](https://github.com/vgomes-p/mobile_piscine-42)
 [![PYTHON IMMERSION](42badges/pyimmersionm.png)](https://github.com/vgomes-p/pythonimmersion-42)
 
+[![vgomes-p's 42 profile](https://42term.vercel.app/api/widget/student/vgomes-p?theme=dark)](https://42term.vercel.app)
 [![vgomes-p's 42 projects](https://42term.vercel.app/api/widget/projects/vgomes-p?theme=dark)](https://42term.vercel.app)
 
 ## PYTHON PROJECTS
