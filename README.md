@@ -43,6 +43,8 @@ I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course
 [![MOBILE](42badges/mobilee.png)](https://github.com/vgomes-p/mobile_piscine-42)
 [![PYTHON IMMERSION](42badges/pyimmersionm.png)](https://github.com/vgomes-p/pythonimmersion-42)
 
+[![vgomes-p's 42 projects](https://42term.vercel.app/api/widget/projects/vgomes-p?theme=dark)](https://42term.vercel.app)
+
 ## PYTHON PROJECTS
 [![AUTO PUSH](pybadges/showcase/auto_push.png)](https://github.com/vgomes-p/auto_push)
 [![AUTO START](pybadges/showcase/auto_start.png)](https://github.com/vgomes-p/Coder-Auto-Start)
