@@ -40,7 +40,7 @@ I'm a School 42 (São Paulo Campus) student, doing the 42.Zip Programming course
 [![SO_LONG](42badges/so_longe.png)](https://github.com/vgomes-p/so_long-42)
 [![PIPEX](42badges/pipexe.png)](https://github.com/vgomes-p/pipex-42)
 [![MINISHELL](42badges/minishelle.png)](https://github.com/vgomes-p/minishell-42)
-[![MOBILE](42badges/mobilee.png)](https://github.com/vgomes-p/mobile_piscine-42)
+[![MOBILE](42badges/mobilee.png)](https://github.com/vgomes-p/piscine-mobile-42)
 [![PYTHON IMMERSION](42badges/pyimmersionm.png)](https://github.com/vgomes-p/pythonimmersion-42)
 
 [![vgomes-p's 42 profile](https://42term.vercel.app/api/widget/student/vgomes-p?theme=dark)](https://42term.vercel.app)
