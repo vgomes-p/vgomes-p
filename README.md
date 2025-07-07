@@ -46,7 +46,7 @@ Enjoy exploring my portfolio and feel free to connect and chat with me!
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-### GWS Platforms I'm proficient with
+### GWS platforms I'm comfortable working with
 ![Google AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
