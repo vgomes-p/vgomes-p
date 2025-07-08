@@ -20,7 +20,7 @@ Enjoy exploring my portfolio and feel free to connect and chat with me!
 
 ## MY COURSES
 [![PMF](src/course2024/Programando_Meu_Futuro_2024.png)](https://github.com/vgomes-p/Programando_Meu_Futuro_2024)
-[![BS2025](src/course2025/Bootcamp_Santander_2025.png)](https://github.com/vgomes-p/Bootcamp_Santander_2025)
+[![SB2025](src/course2025/Santander_Bootcamp_2025.png)](https://github.com/vgomes-p/Bootcamp_Santander_2025)
 
 ## MY PERSONAL PROJECTS
 [![Python](src/showcase/python.png)](https://github.com/vgomes-p)
