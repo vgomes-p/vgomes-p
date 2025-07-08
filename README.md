@@ -23,7 +23,7 @@ Enjoy exploring my portfolio and feel free to connect and chat with me!
 [![SB2025](src/course2025/Santander_Bootcamp_2025.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025)
 
 ## MY PERSONAL PROJECTS
-[![Python](src/languages/python.png)](https://github.com/vgomes-p/python_independent_project)
+[![Python](src/languages/Python.png)](https://github.com/vgomes-p/python_independent_project)
 [![React-Native](src/languages/react-native.png)](https://github.com/vgomes-p/react-native_independent_projects)
 
 ## 👀 GET TO KNOW ME BETTER!
