@@ -1,7 +1,6 @@
-# Sorry, but work is in progress
-## Salutations from Brasil!!! (Yes, with an S 🤭)
-### 🙋🏽‍♂️ ABOUT ME (a short intro)
-#### My name is Vinicius, but you may call me Vinny.
+# Salutations from Brasil!!! (Yes, with an S 🤭)
+## 🙋🏽‍♂️ ABOUT ME (a short intro)
+### My name is Vinicius, but you may call me Vinny.
 I'm a former student at 42 (São Paulo Campus), where I took the 42.Zip programming course. I'm also diving deep into Python programming. Around here, you’ll see some projects I've done as part of the courses I've taken and others just for fun...😊
 Enjoy exploring my portfolio and feel free to connect and chat with me!
 
