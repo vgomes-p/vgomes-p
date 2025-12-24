@@ -4,30 +4,13 @@
 I'm a former student at 42 (São Paulo Campus), where I took the 42.Zip programming course. I'm also diving deep into Python programming. Around here, you’ll see some projects I've done as part of the courses I've taken and others just for fun...😊
 Enjoy exploring my portfolio and feel free to connect and chat with me!
 
-## 🤝🏽 My GitHub Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
-</picture>
-
-## 🏆 My GitHub Trophies
-![My Trophies](https://github-profile-trophy.vercel.app/?username=vgomes-p&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko)
-
-## MY COURSES
-[![PMF](src/course2024/Programando_Meu_Futuro_2024.png)](https://github.com/vgomes-p/Programando_Meu_Futuro_2024)
-[![SB2025](src/course2025/Santander_Bootcamp_2025.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025)
-
-## MY PERSONAL PROJECTS
-[![Python](src/languages/Python.png)](https://github.com/vgomes-p/python_independent_project)
-<!-- [![React-Native](src/languages/react-native.png)](https://github.com/vgomes-p/react-native_independent_projects) -->
+## PROJECTS YOU MAY FIND INTERESTING
+| Bank System | CodeSim| Minishell |
+| :-: | :-: | :-: |
+| [![Bank System](src/projects/ABS.png)](https://github.com/vgomes-p/Programando_Meu_Futuro_2024) | [![CodeSim](src/projects/codesim.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025) | [![MiniShell](src/projects/minishell.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025) |
 
 ## 👀 GET TO KNOW ME BETTER!
-### These are the languages and frameworks I've been learning and working with
-#### ranked from most proficient to least
+### These are the languages and frameworks I've been learning and working with (ranked from most proficient to least)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,13 +29,25 @@ Enjoy exploring my portfolio and feel free to connect and chat with me!
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-### GWS platforms I'm comfortable working with
+### GWS platforms I work with
 ![Google AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
+## 🤝🏽 My GitHub Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
+</picture>
 
+![My Stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko)
+
+## COURSES' PATHWAY
+[![PMF](src/course2024/Programando_Meu_Futuro_2024.png)](https://github.com/vgomes-p/Programando_Meu_Futuro_2024)
+<!-- [![SB2025](src/course2025/Santander_Bootcamp_2025.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025) -->
 
 ## 🛸 WAYS TO CONTACT ME!
 ### If you're interested, you can hit me up through LinkedIn, Gmail or Discord (links below)
