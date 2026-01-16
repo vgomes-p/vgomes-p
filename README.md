@@ -7,7 +7,7 @@ Enjoy exploring my portfolio and feel free to connect and chat with me!
 ## PROJECTS YOU MAY FIND INTERESTING
 | Bank System | CodeSim| Minishell |
 | :-: | :-: | :-: |
-| [![Bank System](src/projects/ABS.png)](https://github.com/vgomes-p/Programando_Meu_Futuro_2024) | [![CodeSim](src/projects/codesim.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025) | [![MiniShell](src/projects/minishell.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025) |
+| [![Bank System](src/projects/ABS.png)](https://github.com/vgomes-p/bank-system) | [![CodeSim](src/projects/codesim.png)](https://github.com/vgomes-p/CodeSim) | [![MiniShell](src/projects/minishell.png)](https://github.com/vgomes-p/minishell-42) |
 
 ## 👀 GET TO KNOW ME BETTER!
 ### These are the languages and frameworks I've been learning and working with (ranked from most proficient to least)
@@ -54,4 +54,5 @@ Enjoy exploring my portfolio and feel free to connect and chat with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinied-gpereira/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1226967137533558977)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinied.contact@gmail.com)
+
 
