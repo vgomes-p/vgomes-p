@@ -47,7 +47,7 @@ Enjoy exploring my portfolio and feel free to connect and chat with me!
 
 ## COURSES' PATHWAY
 [![PMF](src/course2024/Programando_Meu_Futuro_2024.png)](https://github.com/vgomes-p/Programando_Meu_Futuro_2024)
-<!-- [![SB2025](src/course2025/Santander_Bootcamp_2025.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025) -->
+[![SB2025](src/course2025/Santander_Bootcamp_2025.png)](https://github.com/vgomes-p/santander-bootcamp-2025#)
 
 ## 🛸 WAYS TO CONTACT ME!
 ### If you're interested, you can hit me up through LinkedIn, Gmail or Discord (links below)
