@@ -7,7 +7,7 @@
 ## PROJECTS YOU MAY FIND INTERESTING
 | ManaGit | CodeSim| Minishell |
 | :-: | :-: | :-: |
-| [![ManaGit](src/projects/managit.png)](https://github.com/vgomes-p/managit) | [![CodeSim](src/projects/codesim.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025) | [![MiniShell](src/projects/minishell.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025) |
+| [![ManaGit](src/projects/managit.png)](https://github.com/vgomes-p/managit) | [![CodeSim](src/projects/codesim.png)](https://github.com/vgomes-p/CodeSim) | [![MiniShell](src/projects/minishell.png)](https://github.com/vgomes-p/minishell-42) |
 
 ## 👀 GET TO KNOW ME BETTER!
 ### My main stacks
