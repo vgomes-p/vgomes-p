@@ -52,8 +52,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
 </picture>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko)
+![contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgomes-p&theme=tokyonight&hide_border=true&border_radius=10)
+<!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko) -->
 
 <!--## COURSES' PATHWAY
 [![PMF](src/course/Programando_Meu_Futuro_2024.png)](https://github.com/vgomes-p/Programando_Meu_Futuro_2024)
