@@ -4,10 +4,10 @@
 #### I'm a student at 42 (São Paulo Campus), where I took the 42.Zip programming course and now I am taking the New Common Core Software Engineering course. I'm also diving deep into Python programming. Around here, you’ll see some projects I've done as part of the courses I've taken and others just for fun...😊
 #### Enjoy exploring my portfolio and feel free to connect and chat with me!
 
-## PROJECTS YOU MAY FIND INTERESTING
+<!-- ## PROJECTS YOU MAY FIND INTERESTING
 | ManaGit | CodeSim| Minishell |
 | :-: | :-: | :-: |
-| [![ManaGit](src/projects/managit.png)](https://github.com/vgomes-p/managit) | [![CodeSim](src/projects/codesim.png)](https://github.com/vgomes-p/CodeSim) | [![MiniShell](src/projects/minishell.png)](https://github.com/vgomes-p/minishell-42) |
+| [![ManaGit](src/projects/managit.png)](https://github.com/vgomes-p/managit) | [![CodeSim](src/projects/codesim.png)](https://github.com/vgomes-p/CodeSim) | [![MiniShell](src/projects/minishell.png)](https://github.com/vgomes-p/minishell-42) | -->
 
 ## 👀 GET TO KNOW ME BETTER!
 ### My main stacks
